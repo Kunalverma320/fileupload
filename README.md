@@ -13,6 +13,15 @@ Before you begin, ensure you have met the following requirements:
 - Node.js (for frontend dependencies)
 - A database (MySQL)
 
+
+Postmen
+![postman](https://github.com/user-attachments/assets/05f794e3-eb27-4950-a850-4827e50ec2c3)
+
+Home
+![home](https://github.com/user-attachments/assets/99493303-a1f6-427a-b021-cf7fa3752ee9)
+
+
+
 ## Installation
 
 Follow these steps to install the project:
@@ -62,5 +71,9 @@ Serve the Application
 You can now serve the application using the built-in PHP server:
 
 php artisan serve
+
+
+
+
 
 
